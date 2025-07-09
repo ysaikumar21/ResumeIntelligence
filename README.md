@@ -1,5 +1,11 @@
 # ATS Resume Analyzer - Python Portfolio Project
 
+# 🧠 Resume Intelligence – AI Resume Analyzer for Job Role
+
+[![Streamlit App](https://img.shields.io/badge/🔴%20Live%20Demo-Click%20Here-brightgreen?style=for-the-badge&logo=streamlit)](https://resumeintelligence-by-saikumar.streamlit.app/)
+
+---
+
 ## 🎯 Project Overview
 
 Professional ATS Resume Analyzer built specifically for **Saikumar Yaramala** - B.Tech Electronics and Data Science student targeting fresher IT roles. This project demonstrates proficiency in Python, HTML, CSS, databases, and data science tools.
