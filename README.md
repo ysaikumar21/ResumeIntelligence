@@ -10,6 +10,7 @@
 
 Professional ATS Resume Analyzer built specifically for **Saikumar Yaramala** - B.Tech Electronics and Data Science student targeting fresher IT roles. This project demonstrates proficiency in Python, HTML, CSS, databases, and data science tools.
 
+
 ## 🚀 Features
 
 - **Smart Resume Parsing**: Extract structured data from PDF, DOCX, and TXT files
