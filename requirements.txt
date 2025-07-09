@@ -1,0 +1,12 @@
+streamlit
+pandas
+numpy
+PyPDF2
+python-docx
+nltk
+scikit-learn
+plotly
+wordcloud
+textstat
+streamlit-option-menu
+Pillow
